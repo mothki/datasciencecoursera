@@ -1,3 +1,3 @@
 # datasciencecoursera
 ### A repo for the Data Science courses on coursera
-Created as part of the course pjoject in The Data Scientist's Toolbox
+Created as part of the course project in The Data Scientist's Toolbox
